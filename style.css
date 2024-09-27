@@ -1,0 +1,21 @@
+html {
+  background-color: black;
+  color: white;
+}
+
+div {
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 25%;
+  width: 50%;
+}
+
+#alsana {
+  border: 5px solid;
+  width: 100%;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-family: "Libre Baskerville", serif;
+}
